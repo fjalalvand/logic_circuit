@@ -53,10 +53,15 @@ Synchronous and Asynchronous
 - Introducing standard sequential chips
 -6.The basics of designing asynchronous circuits
 -Suggested Scoring:
+
 -Manual Assignments %10
+
 -Projects %25
+
 -My midterm exam %25
+
 -My final exam %40
+
 -reference books:
 [0] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd
 Edition, McGraw-Hill, 2111.
