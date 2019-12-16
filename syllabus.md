@@ -11,7 +11,7 @@ Course goals:
 2-Design of digital systems
 3- Analysis of digital systems
 4- Digital modeling of digital systems
-list of topics:
+            list of topics:
 1-Basic principles and concepts
 - History of digital systems
 - The application of digital systems in the present world
