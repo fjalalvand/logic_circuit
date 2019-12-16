@@ -8,16 +8,16 @@ permalink: /syllabus/
 -Introduction to the principles of digital circuit design and systems, how to analyze and troubleshoot them
 -lesson results:
 -Students who successfully complete this course will have a good insight into:
--1- Fundamental understanding of digital systems and circuits
--2- Design of digital systems
--3- Analysis of digital systems
--4- Digital modeling of digital systems
+1- Fundamental understanding of digital systems and circuits
+2- Design of digital systems
+3- Analysis of digital systems
+4- Digital modeling of digital systems
 -list of topics:
 -1.Basic principles and concepts
-- History of digital systems
-- The application of digital systems in the present world
-- The foundations of digital systems and their differences with analog systems
-- Overview of digital circuits based on MOS transistors
+History of digital systems
+The application of digital systems in the present world
+The foundations of digital systems and their differences with analog systems
+Overview of digital circuits based on MOS transistors
 -2.Numerical systems
 -Number theory and their representation
 - Computing in digital systems
