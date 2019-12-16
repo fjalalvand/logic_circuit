@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Some Course Title
-course_description:"Introduction to the principles of digital circuit design and systems, how to analyze and troubleshoot them."
+course_description: "Introduction to the principles of digital circuit design and systems, how to analyze and troubleshoot them."
 course_semester: "Fall 2019"
 description: |
     Instructor: Zhila Sadati
