@@ -14,10 +14,10 @@ permalink: /syllabus/
 4- Digital modeling of digital systems
 -list of topics:
 -1-Basic principles and concepts
-History of digital systems
-The application of digital systems in the present world
-The foundations of digital systems and their differences with analog systems
-Overview of digital circuits based on MOS transistors
+-History of digital systems
+-The application of digital systems in the present world
+-The foundations of digital systems and their differences with analog systems
+-Overview of digital circuits based on MOS transistors
 -2-Numerical systems
 -Number theory and their representation
 - Computing in digital systems
@@ -53,11 +53,11 @@ Synchronous and Asynchronous
 - Introducing standard sequential chips
 -6-The basics of designing asynchronous circuits
 -Suggested Scoring:
- -Manual Assignments %10
- -Projects %25
- -My midterm exam %25
- -My final exam %40
- -reference books:
+s-Manual Assignments %10
+-Projects %25
+-My midterm exam %25
+-My final exam %40
+-reference books:
 [0] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd
 Edition, McGraw-Hill, 2111.
 [2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9
