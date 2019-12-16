@@ -3,12 +3,10 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
-Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
-   Course goals:
-Introduction to the principles of digital circuit design and systems, how to analyze and troubleshoot them
-lesson results:
-Students who successfully complete this course will have a good insight into:
+Course goals:
+ Introduction to the principles of digital circuit design and systems, how to analyze and troubleshoot them
+ lesson results:
+ Students who successfully complete this course will have a good insight into:
 1- Fundamental understanding of digital systems and circuits
 2-Design of digital systems
 3- Analysis of digital systems
