@@ -7,9 +7,9 @@ description: |
     Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/course_template/syllabus/
+baseurl: "/logic_circuit" # the subpath of your site, e.g. /blog/
+url: "http://fjalalvand.github.io/logic_circuit" # the base hostname & protocol for your site
+syllabus: http://fjalalvand.github.io/logic_circuit/syllabus/
 githubdir: 
 
 # Author/user information
