@@ -3,6 +3,10 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+[0] S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design. 3rd
+Edition, McGraw-Hill, 2111.
+[2] C. H. Roth and L. L. Kinney, Fundamentals of Logic Design. 9
+th Edition, 2119.
+[3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.
+[4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic
+Circuit Analysis and Design. Prentice Hall, 0119
