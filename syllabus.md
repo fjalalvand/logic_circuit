@@ -51,7 +51,7 @@ Synchronous and Asynchronous
 - Universal counters, registers and shifters and registers
 - Introducing standard sequential chips
 - 6-The basics of designing asynchronous circuits
-- Suggested Scoring:
+<h2>Suggested Scoring:</h2>
 - Manual Assignments %10
 - Projects %25
 - My midterm exam %25
