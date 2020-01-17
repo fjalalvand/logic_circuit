@@ -5,13 +5,13 @@ permalink: /syllabus/
 ---
 
 
-- lesson results:
+<h2>lesson results:</h2>
 - Students who successfully complete this course will have a good insight into:
 - 1- Fundamental understanding of digital systems and circuits
 - 2- Design of digital systems
 - 3- Analysis of digital systems
 - 4- Digital modeling of digital systems
-- list of topics:
+<h2>list of topics:</h2>
 - 1-Basic principles and concepts
 - History of digital systems
 - The application of digital systems in the present world
@@ -56,4 +56,4 @@ Synchronous and Asynchronous
 - Projects %25
 - My midterm exam %25
 - My final exam %40
-- reference books:
+
