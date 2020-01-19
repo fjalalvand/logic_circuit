@@ -10,4 +10,4 @@ th Edition, 2119.
 [3] J. Wakerly, Digital Design, Principles and Practices. 4th Edition, 2119.
 [4] Victor P. Nelson, H. Troy Nagle, Bill D. Carroll, and David Irwin, Digital Logic
 Circuit Analysis and Design. Prentice Hall, 0119
-* [completeDigitalDesign](\SITE_FINAL_LOGIC\Final\bookcompleteDigitalDesign.pdf)
+* [completeDigitalDesign](\SITE_FINAL_LOGIC\Final\book\completeDigitalDesign.pdf)
