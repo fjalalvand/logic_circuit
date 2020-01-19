@@ -6,7 +6,6 @@
 - Support for Persian Calendar
 - Super lightweight 
 - Ready to use in Github Pages
-
 # Demo
 Checkout for a working example at [iust-courses.github.io/ai97](https://iust-courses.github.io/ai97).
 
