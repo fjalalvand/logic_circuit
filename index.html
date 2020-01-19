@@ -50,6 +50,44 @@ comments: true
         </div>
     </div>
 
+        <div style="width:70%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <p>{{ta.name}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+        <div style="width:70%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <p>{{ta.name}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+        <div style="width:70%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <p>{{ta.name}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
     {% if page.comments %} 
         <!-- <div id="disqus_thread"></div>
         <script>
