@@ -8,10 +8,5 @@ permalink: /course-materials/
 * [digitalLogicDesign](/static_files/Final/book/digitalLogicDesign.pdf)
 * [fundamentalsOfLogicDesign](/static_files/Final/book/fundamentalsOfLogicDesign.pdf)
 * [logicAndComputerDesignFundamentals_4th](/static_files/Final/book/logicAndComputerDesignFundamentals_4th.pdf)
-
-
-
-
-
-
-
+<h2>project</h2>
+* [LCD-Projects-98-99-1](/static_files/Final/project/LCD-Projects-98-99-1.pdf)
