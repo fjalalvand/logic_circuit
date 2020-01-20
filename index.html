@@ -42,7 +42,7 @@ comments: true
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{site.data.people.ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    <p>{{ta.name}}</p>
+                    <p>{{site.data.people.ta.name}}</p>
                 </div>
                 {% endfor %}
         </div>
