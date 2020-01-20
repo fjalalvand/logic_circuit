@@ -3,13 +3,5 @@ instructor:
   profile_pic: /_images/avatar.png
 
 teaching_assistants:
-  name: Ms. Sana Shoeibi
-  profile_pic: /_images/avatar.png    
-  name: Mr. Mirhossein Seyednasiri
-  profile_pic: /_images/avatar.png 
-  name: Mr. Mahsa MeimariT
-  profile_pic: /_images/avatar.png  
-  name: Ms. Zahra Hoseini
-  profile_pic: /_images/avatar.png 
-  name: Mr. Sepehr Babapour 
-  profile_pic: /_images/avatar.png    
+  - name: Amir Mohammad Ehsandar
+   profile_pic: /_images/avatar.png      
