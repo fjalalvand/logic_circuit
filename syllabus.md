@@ -37,8 +37,7 @@ permalink: /syllabus/
 <h1>Encoders, decoders, multipliers, antiparticulators, weekly and applicationsThey are particularly useful as a building block in the design of logic circuits</h1>  
 <h1> Design with Universal Gates (Universal)</h1>
 <h1>Distributed, Comparative, Collective Circuit Predictor Circuits</h1> 
-<Open>The concept of high impedance and the use of three-state buffers to create high impedance, circuit withOpen collector gates, wire logic, use of resistors as pull-up and pull-down</h1> 
-
+<h1>The concept of high impedance and the use of three-state buffers to create high impedance, circuit withOpen collector gates, wire logic, use of resistors as pull-up and pull-down</h1> 
 <h1>(PAL, PLA, FPGA) Programmable</h1> 
 <h1> Introduction of standard composite chips</h1>
 <h1>5-Analyzing and designing sequential logic systems</h1> 
