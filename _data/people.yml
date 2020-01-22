@@ -2,11 +2,10 @@ instructor:
   name: Dr.fallahati
   profile_pic: /_images/avatar.png
 
-
 teaching_assistants:
-  - name: Amir Mohammad Ehsandar
-   profile_pic: /_images/avatar.png    
-  - name: Amir Mohammad Ehsandar
-   profile_pic: /_images/avatar.png    
-  - name: Amir Mohammad Ehsandar
-   profile_pic: /_images/avatar.png        
+#  - name: Amir Mohammad Ehsandar
+#   profile_pic: /_images/avatar.png    
+#  - name: Amir Mohammad Ehsandar
+#   profile_pic: /_images/avatar.png    
+#  - name: Amir Mohammad Ehsandar
+#   profile_pic: /_images/avatar.png        
