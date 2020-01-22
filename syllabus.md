@@ -54,5 +54,5 @@ permalink: /syllabus/
 <h1>Projects %25</h1> 
 <h1>My midterm exam %25</h1>
 <h1>My final exam %40</h1> 
-<h>you can find more informatoin here</h>
+<h2>you can find more informatoin here</h2>
 * [Timing-LCD-98-99-1-Final](/static_files/Final/syllabus/Timing-LCD-98-99-1-Final.pdf)
