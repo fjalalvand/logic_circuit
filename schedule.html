@@ -5,19 +5,17 @@ permalink: /schedule/
 ---
 
 <div class="home">
-    <ul class="responsive-table" style="margin-left: 0;">
-        <li class="table-header">
-            <div class="col col-1">Events</div>
-            <div class="col col-1-2">Date</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
-        </li>
-        <li class=<i class="table">
-            <div class="col col-1">Events</div>
-            <div class="col col-1-2">Date</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
-        </i>
+    <table border="1" bordercolor="green" background="/images/test.png">
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+        <tr><td rowspan="2">Row 1 Cell 1</td><td>Row 1 Cell 2</td><td>Row 1 Cell 3</td></tr>
+        <tr><td>Row 2 Cell 2</td><td>Row 2 Cell 3</td></tr>
+        <tr><td colspan="3">Row 3 Cell 1</td></tr>
+    </table>
+
         {% assign all_events = s | concat: site.lectures %}
         {% assign all_events = all_events | concat: site.assignments %}
         {% assign all_events_sorted = all_events | sort: 'date' %}
