@@ -3,8 +3,10 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
-
+<h2>Logic Circuit Design (LCD)</h2>
+<h1>“A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development”
+By John L. Hennessy and David A. Patterson
+Logic circuit design course aims to make you familiar with the digital system concepts, digital storages, digital system modeling, and digital system design. This course is one of the main courses in bachelor program in top universities around the world, such as MIT, Berkley, Stanford, ETH Zurich, USC, Caltech, British Columbia, EPFL, and etc.</h1>
 <h2>lesson results:</h2>
 <h1> Students who successfully complete this course will have a good insight into:</h1>
 <h1> 1- Fundamental understanding of digital systems and circuits</h1>
@@ -49,10 +51,15 @@ permalink: /syllabus/
 <h1>Universal counters, registers and shifters and registers</h1> 
 <h1>Introducing standard sequential chips</h1> 
 <h1> 6-The basics of designing asynchronous circuits</h1>
-<h2>Suggested Scoring:</h2>
-<h1>Manual Assignments %10</h1> 
-<h1>Projects %25</h1> 
-<h1>My midterm exam %25</h1>
-<h1>My final exam %40</h1> 
-<h2>you can find more informatoin here</h2>
+<h2>Grading Policies</h2>
+<h1>• Final Exam: 30%</h1>
+<h1>• Midterm Exam: 20%</h1>
+<h1>• Quiz: 10%</h1>
+<h1>o Four scheduled quizzes</h1>
+<h1>o TA class quizzes</h1>
+<h1>• Class attendance and class activity: 5% - 5%</h1>
+<h1>o Lecture Class</h1>
+<h1>o TA class</h1>
+<h1>• Assignments & Projects: 30%</h1>
+<h1>o Bonus points for outstanding projects</h1>
 * [Timing-LCD-98-99-1-Final](/static_files/Final/syllabus/Timing-LCD-98-99-1-Final.pdf)
