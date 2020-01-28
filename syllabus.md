@@ -3,10 +3,10 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<h2>Logic Circuit Design (LCD)</h2>
-<h1>“A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development”
-By John L. Hennessy and David A. Patterson
-Logic circuit design course aims to make you familiar with the digital system concepts, digital storages, digital system modeling, and digital system design. This course is one of the main courses in bachelor program in top universities around the world, such as MIT, Berkley, Stanford, ETH Zurich, USC, Caltech, British Columbia, EPFL, and etc.</h1>
+<h2>Logic Circuit Design (LCD):</h2>
+<h1>“A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design,</h1><h1> Enhanced Security, Open Instruction Sets, and Agile Chip Development”</h1>
+<h1>By John L. Hennessy and David A. Patterson</h1>
+<h1>Logic circuit design course aims to make you familiar with the digital system concepts,</h1> <h1>digital storages, digital system modeling, and digital system design. This course is</h1><h1>one of the main courses in bachelor program in top universities around the world, such</h1><h1>as MIT, Berkley, Stanford, ETH Zurich, USC, Caltech, British Columbia, EPFL, and etc.</h1>
 <h2>lesson results:</h2>
 <h1> Students who successfully complete this course will have a good insight into:</h1>
 <h1> 1- Fundamental understanding of digital systems and circuits</h1>
