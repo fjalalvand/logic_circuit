@@ -62,4 +62,9 @@ permalink: /syllabus/
 <h1>o TA class</h1>
 <h1>• Assignments & Projects: 30%</h1>
 <h1>o Bonus points for outstanding projects</h1>
-* [Timing-LCD-98-99-1-Final](/static_files/Final/syllabus/Timing-LCD-98-99-1-Final.pdf)
+<h2>Assignment Policies</h2>
+<h1>• Deadlines are tight.</h1>
+<h1>• You have 3-day extra time for submitting assignments/projects in the whole semester.</h1>
+<h1>• 20% penalty for your late assignment/project submissions after 3-day extra time!</h1>
+<h1>• Zero score for the late assignment/project submissions after uploading the solution in</h1><h1> the course website!</h1>
+<h1>• Zero score for copied assignments/projects and academic misconduct.</h1>
